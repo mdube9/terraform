@@ -1,0 +1,6 @@
+[submodule "todo-for-terraform"]
+	path = todo-for-terraform
+	url = https://github.com/spkane/todo-for-terraform.git
+[submodule "terraform-code"]
+	path = terraform-code
+	url = https://github.com/spkane/todo-for-terraform.git
